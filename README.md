@@ -47,7 +47,10 @@ The test script simulates a complete, end-to-end business transaction flow, stru
 
 **JMeter Listeners used:**  
 - View Results Tree: For inspecting request/response payloads, validating correlation, and confirming assertion hits.  
-- Aggregate Report: For summarizing key performance metrics.  
+- Aggregate Report: For summarizing key performance metrics.
+
+**Scalability Testing (Exploratory):** Tested the script on BlazeMeter with 50 virtual users to evaluate large-scale load handling. Partial execution highlighted areas for optimization under high concurrency.  
+
 
 ---
 
