@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759389052547,85,/cgi-bin/welcome.pl-3,200,OK,Thread Group 1-1,text,true,,1026,418,1,1,http://192.168.1.6:1080/cgi-bin/welcome.pl?signOff=true,84,0,27
+1759389052635,82,/cgi-bin/nav.pl-6,200,OK,Thread Group 1-1,text,true,,1755,459,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?in=home,80,0,0
+1759389052719,111,/cgi-bin/login.pl-51,200,OK,Thread Group 1-1,text,true,,960,674,1,1,http://192.168.1.6:1080/cgi-bin/login.pl,108,0,0
+1759389052832,97,/cgi-bin/nav.pl-53,200,OK,Thread Group 1-1,text,true,,1749,673,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?page=menu&in=home,95,0,0
+1759389052471,375,Login,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,5490,2224,1,1,null,367,81,27
+1759389052930,83,/cgi-bin/welcome.pl-61,200,OK,Thread Group 1-1,text,true,,843,687,1,1,http://192.168.1.6:1080/cgi-bin/welcome.pl?page=search,81,0,0
+1759389053014,96,/cgi-bin/nav.pl-62,200,OK,Thread Group 1-1,text,true,,1749,690,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?page=menu&in=flights,94,0,0
+1759389053111,112,/cgi-bin/reservations.pl-63,200,OK,Thread Group 1-1,text,true,,4520,691,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl?page=welcome,108,0,0
+1759389053224,98,/cgi-bin/reservations.pl-82,200,OK,Thread Group 1-1,text,true,,2705,1027,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,95,0,0
+1759389053323,103,/cgi-bin/reservations.pl-83,200,OK,Thread Group 1-1,text,true,,3070,921,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,100,0,0
+1759389053461,45,/cgi-bin/welcome.pl-3,200,OK,Thread Group 1-2,text,true,,1026,418,2,2,http://192.168.1.6:1080/cgi-bin/welcome.pl?signOff=true,42,0,1
+1759389053427,109,/cgi-bin/reservations.pl-84,200,OK,Thread Group 1-1,text,true,,2958,1165,2,2,http://192.168.1.6:1080/cgi-bin/reservations.pl,106,0,0
+1759389053507,97,/cgi-bin/nav.pl-6,200,OK,Thread Group 1-2,text,true,,1757,459,2,2,http://192.168.1.6:1080/cgi-bin/nav.pl?in=home,95,0,0
+1759389053536,109,/cgi-bin/reservations.pl-86,200,OK,Thread Group 1-1,text,true,,4520,784,2,2,http://192.168.1.6:1080/cgi-bin/reservations.pl,106,0,0
+1759389052930,710,FlightBooking,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,20365,5965,2,2,null,690,5,0
+1759389053605,102,/cgi-bin/login.pl-51,200,OK,Thread Group 1-2,text,true,,877,673,2,2,http://192.168.1.6:1080/cgi-bin/login.pl,100,0,0
+1759389053646,100,/cgi-bin/welcome.pl-87,200,OK,Thread Group 1-1,text,true,,1025,664,2,2,http://192.168.1.6:1080/cgi-bin/welcome.pl?signOff=1,98,0,0
+1759389053708,97,/cgi-bin/nav.pl-53,200,OK,Thread Group 1-2,text,true,,1749,590,2,2,http://192.168.1.6:1080/cgi-bin/nav.pl?page=menu&in=home,94,0,0
+1759389053460,341,Login,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,5409,2140,2,2,null,331,4,1
+1759389053748,89,/cgi-bin/nav.pl-88,200,OK,Thread Group 1-1,text,true,,1757,456,2,2,http://192.168.1.6:1080/cgi-bin/nav.pl?in=home,87,0,0
+1759389053645,189,SignOff_WebTours,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,2782,1120,2,2,null,185,3,0
+1759389053806,90,/cgi-bin/welcome.pl-61,200,OK,Thread Group 1-2,text,true,,843,604,1,1,http://192.168.1.6:1080/cgi-bin/welcome.pl?page=search,88,0,0
+1759389053897,98,/cgi-bin/nav.pl-62,200,OK,Thread Group 1-2,text,true,,1749,607,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?page=menu&in=flights,96,0,0
+1759389053996,106,/cgi-bin/reservations.pl-63,200,OK,Thread Group 1-2,text,true,,4520,608,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl?page=welcome,103,0,0
+1759389054103,99,/cgi-bin/reservations.pl-82,200,OK,Thread Group 1-2,text,true,,2705,944,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,96,0,0
+1759389054203,94,/cgi-bin/reservations.pl-83,200,OK,Thread Group 1-2,text,true,,3007,838,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,90,0,0
+1759389054298,93,/cgi-bin/reservations.pl-84,200,OK,Thread Group 1-2,text,true,,2874,1080,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,90,0,0
+1759389054446,43,/cgi-bin/welcome.pl-3,200,OK,Thread Group 1-3,text,true,,1026,418,2,2,http://192.168.1.6:1080/cgi-bin/welcome.pl?signOff=true,41,0,2
+1759389054392,115,/cgi-bin/reservations.pl-86,200,OK,Thread Group 1-2,text,true,,4520,701,2,2,http://192.168.1.6:1080/cgi-bin/reservations.pl,112,0,0
+1759389053805,695,FlightBooking,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-2,,true,,20218,5382,2,2,null,675,7,0
+1759389054490,91,/cgi-bin/nav.pl-6,200,OK,Thread Group 1-3,text,true,,1751,459,2,2,http://192.168.1.6:1080/cgi-bin/nav.pl?in=home,88,0,0
+1759389054508,85,/cgi-bin/welcome.pl-87,200,OK,Thread Group 1-2,text,true,,1025,581,2,2,http://192.168.1.6:1080/cgi-bin/welcome.pl?signOff=1,83,0,0
+1759389054583,104,/cgi-bin/login.pl-51,200,OK,Thread Group 1-3,text,true,,901,665,2,2,http://192.168.1.6:1080/cgi-bin/login.pl,102,0,0
+1759389054594,95,/cgi-bin/nav.pl-88,200,OK,Thread Group 1-2,text,true,,1751,456,2,2,http://192.168.1.6:1080/cgi-bin/nav.pl?in=home,92,0,0
+1759389054508,180,SignOff_WebTours,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,2776,1037,2,2,null,175,1,0
+1759389054688,92,/cgi-bin/nav.pl-53,200,OK,Thread Group 1-3,text,true,,1749,614,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?page=menu&in=home,90,0,0
+1759389054445,330,Login,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,5427,2156,1,1,null,321,5,2
+1759389054781,97,/cgi-bin/welcome.pl-61,200,OK,Thread Group 1-3,text,true,,843,628,1,1,http://192.168.1.6:1080/cgi-bin/welcome.pl?page=search,95,0,0
+1759389054879,96,/cgi-bin/nav.pl-62,200,OK,Thread Group 1-3,text,true,,1749,631,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?page=menu&in=flights,93,0,0
+1759389054975,102,/cgi-bin/reservations.pl-63,200,OK,Thread Group 1-3,text,true,,4520,632,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl?page=welcome,99,0,0
+1759389055078,107,/cgi-bin/reservations.pl-82,200,OK,Thread Group 1-3,text,true,,2705,968,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,103,0,0
+1759389055185,106,/cgi-bin/reservations.pl-83,200,OK,Thread Group 1-3,text,true,,3026,862,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,104,0,0
+1759389055292,93,/cgi-bin/reservations.pl-84,200,OK,Thread Group 1-3,text,true,,2908,1106,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,90,0,0
+1759389055386,103,/cgi-bin/reservations.pl-86,200,OK,Thread Group 1-3,text,true,,4520,725,2,2,http://192.168.1.6:1080/cgi-bin/reservations.pl,100,0,0
+1759389054780,704,FlightBooking,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-3,,true,,20271,5552,2,2,null,684,6,0
+1759389055444,45,/cgi-bin/welcome.pl-3,200,OK,Thread Group 1-4,text,true,,1026,418,2,2,http://192.168.1.6:1080/cgi-bin/welcome.pl?signOff=true,43,0,0
+1759389055490,88,/cgi-bin/welcome.pl-87,200,OK,Thread Group 1-3,text,true,,1025,605,2,2,http://192.168.1.6:1080/cgi-bin/welcome.pl?signOff=1,85,0,0
+1759389055490,91,/cgi-bin/nav.pl-6,200,OK,Thread Group 1-4,text,true,,1757,459,2,2,http://192.168.1.6:1080/cgi-bin/nav.pl?in=home,89,0,0
+1759389055579,97,/cgi-bin/nav.pl-88,200,OK,Thread Group 1-3,text,true,,1757,456,2,2,http://192.168.1.6:1080/cgi-bin/nav.pl?in=home,94,0,0
+1759389055490,185,SignOff_WebTours,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,2782,1061,2,2,null,179,1,0
+1759389055583,113,/cgi-bin/login.pl-51,200,OK,Thread Group 1-4,text,true,,875,672,1,1,http://192.168.1.6:1080/cgi-bin/login.pl,111,0,0
+1759389055696,96,/cgi-bin/nav.pl-53,200,OK,Thread Group 1-4,text,true,,1749,588,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?page=menu&in=home,94,0,0
+1759389055443,345,Login,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,5407,2137,1,1,null,337,4,0
+1759389055793,90,/cgi-bin/welcome.pl-61,200,OK,Thread Group 1-4,text,true,,843,602,1,1,http://192.168.1.6:1080/cgi-bin/welcome.pl?page=search,87,0,0
+1759389055884,96,/cgi-bin/nav.pl-62,200,OK,Thread Group 1-4,text,true,,1749,605,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?page=menu&in=flights,94,0,0
+1759389055981,101,/cgi-bin/reservations.pl-63,200,OK,Thread Group 1-4,text,true,,4520,606,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl?page=welcome,98,0,0
+1759389056083,91,/cgi-bin/reservations.pl-82,200,OK,Thread Group 1-4,text,true,,2705,942,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,89,0,0
+1759389056175,95,/cgi-bin/reservations.pl-83,200,OK,Thread Group 1-4,text,true,,3007,836,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,93,0,0
+1759389056271,97,/cgi-bin/reservations.pl-84,200,OK,Thread Group 1-4,text,true,,2870,1076,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,94,0,0
+1759389056443,40,/cgi-bin/welcome.pl-3,200,OK,Thread Group 1-5,text,true,,1026,418,2,2,http://192.168.1.6:1080/cgi-bin/welcome.pl?signOff=true,37,0,0
+1759389056368,119,/cgi-bin/reservations.pl-86,200,OK,Thread Group 1-4,text,true,,4520,699,2,2,http://192.168.1.6:1080/cgi-bin/reservations.pl,116,0,0
+1759389055792,689,FlightBooking,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-4,,true,,20214,5366,2,2,null,671,6,0
+1759389056484,90,/cgi-bin/nav.pl-6,200,OK,Thread Group 1-5,text,true,,1755,459,2,2,http://192.168.1.6:1080/cgi-bin/nav.pl?in=home,88,0,0
+1759389056488,98,/cgi-bin/welcome.pl-87,200,OK,Thread Group 1-4,text,true,,1025,579,2,2,http://192.168.1.6:1080/cgi-bin/welcome.pl?signOff=1,95,0,0
+1759389056586,94,/cgi-bin/nav.pl-88,200,OK,Thread Group 1-4,text,true,,1755,456,2,2,http://192.168.1.6:1080/cgi-bin/nav.pl?in=home,91,0,0
+1759389056487,192,SignOff_WebTours,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,2780,1035,2,2,null,186,1,0
+1759389056575,118,/cgi-bin/login.pl-51,200,OK,Thread Group 1-5,text,true,,879,669,1,1,http://192.168.1.6:1080/cgi-bin/login.pl,116,0,0
+1759389056693,96,/cgi-bin/nav.pl-53,200,OK,Thread Group 1-5,text,true,,1749,592,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?page=menu&in=home,94,0,0
+1759389056442,344,Login,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,5409,2138,1,1,null,335,3,0
+1759389056789,89,/cgi-bin/welcome.pl-61,200,OK,Thread Group 1-5,text,true,,843,606,1,1,http://192.168.1.6:1080/cgi-bin/welcome.pl?page=search,86,0,0
+1759389056878,89,/cgi-bin/nav.pl-62,200,OK,Thread Group 1-5,text,true,,1749,609,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?page=menu&in=flights,86,0,0
+1759389056967,108,/cgi-bin/reservations.pl-63,200,OK,Thread Group 1-5,text,true,,4520,610,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl?page=welcome,105,0,0
+1759389057075,99,/cgi-bin/reservations.pl-82,200,OK,Thread Group 1-5,text,true,,2705,946,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,96,0,0
+1759389057174,97,/cgi-bin/reservations.pl-83,200,OK,Thread Group 1-5,text,true,,3009,840,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,95,0,0
+1759389057272,102,/cgi-bin/reservations.pl-84,200,OK,Thread Group 1-5,text,true,,2876,1083,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,100,0,0
+1759389057375,98,/cgi-bin/reservations.pl-86,200,OK,Thread Group 1-5,text,true,,4520,703,1,1,http://192.168.1.6:1080/cgi-bin/reservations.pl,95,0,0
+1759389056789,682,FlightBooking,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-5,,true,,20222,5397,1,1,null,663,3,0
+1759389057474,94,/cgi-bin/welcome.pl-87,200,OK,Thread Group 1-5,text,true,,1025,583,1,1,http://192.168.1.6:1080/cgi-bin/welcome.pl?signOff=1,91,0,0
+1759389057568,94,/cgi-bin/nav.pl-88,200,OK,Thread Group 1-5,text,true,,1753,456,1,1,http://192.168.1.6:1080/cgi-bin/nav.pl?in=home,91,0,0
+1759389057474,188,SignOff_WebTours,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,2778,1039,1,1,null,182,1,0
