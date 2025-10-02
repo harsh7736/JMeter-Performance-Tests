@@ -100,7 +100,7 @@ git clone https://github.com/harsh7736/JMeter-Performance-Tests.git
 
 
 
-Author
+##Author
 
 Harsh Singh – Software Engineer | QA Automation & Performance Testing Enthusiast
 
