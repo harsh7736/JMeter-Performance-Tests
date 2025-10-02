@@ -55,7 +55,8 @@ The test script simulates a complete, end-to-end business transaction flow, stru
 Key performance indicators and successful run details:
 
 1. **Aggregate Report Summary**  
-*(Place screenshot here)*  
+*(<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c56ab1fd-27ac-4601-b600-8651afa88329" />
+)*  
 
 2. **View Results Tree (Successful Transaction)**  
 *(Place screenshot here)*  
