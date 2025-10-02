@@ -63,7 +63,7 @@ Key performance indicators and successful run details:
 3. **HTML Dashboard Overview**  
 *(Place screenshot here)*  
 
-> For the complete set of screenshots, refer to [`JMeter_Test_Results.docx`](JMeter_Test_Results.docx).
+> For the complete set of Test screenshots, refer to [`JMeter_Test_Results.docx`](JMeter_Test_Results.docx).
 
 ---
 
@@ -87,4 +87,13 @@ git clone https://github.com/harsh7736/JMeter-Performance-Tests.git
 
 
 Author
-Harsh Singh
+
+Harsh Singh – Software Engineer | QA Automation & Performance Testing Enthusiast
+
+Passionate about test automation, performance testing, and optimizing application scalability
+
+Skilled in JMeter, Selenium, CI/CD pipelines, and data-driven testing
+
+GitHub: https://github.com/harsh7736
+
+LinkedIn:[ https://www.linkedin.com/in/harsh-singh](https://www.linkedin.com/in/harsh-singh-72b570210/)
